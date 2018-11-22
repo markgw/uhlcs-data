@@ -1,0 +1,27 @@
+# This file lists the so far unprocessed languages in the UHLCS directory
+#
+# I will mark here as I either establish that we will ignore that language
+#  or add an appropriate module instance to the Pimlico pipeline
+
+DONE 1. dvina_karelian
+DONE 2. ingrian
+WON'T DO 3. livonian
+DONE 4. livvi
+WON'T DO 4. lude
+DONE 6. veps
+
+7. eastern-mari
+8. western-mari
+9. erzya
+10. moksha
+11. komi
+12. udmurt
+13. kildin-saami
+14. north-saami
+15. ume-saami
+16. khanty
+17. mansi
+18. enets
+19. kamas
+20. nenets
+21. selkup
